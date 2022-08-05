@@ -960,17 +960,17 @@
     "drBonusChallenge":{
       "result":true,
       "actionCount":{
-        "targetvalue":5,
+        "targetValue":5,
         "currentLevel":2,
         "progressByLevel":3
       },
       "totalKokenryo":{
-        "targetvalue":3000,
+        "targetValue":3000,
         "currentLevel":2,
         "progressByLevel":2700
       },
       "answerCount":{
-        "targetvalue":4,
+        "targetValue":4,
         "currentLevel":3,
         "progressByLevel":2
       }
